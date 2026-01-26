@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+Code5rs;Where+Code+Moves+and+Lives;Build.+Create.+Dominate." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+Skye+Denver+Celeste;Where+Code+Moves+and+Lives;Build.+Create.+Dominate." />
 </p>
 
-<h1 align="center">🚀 CODE5RS</h1>
-<p align="center"><i>Where developers turn ideas into reality.</i></p>
+<h1 align="center">🚀 SKYE DENVER CELESTE</h1>
+<p align="center"><i>Where ideas turn into powerful code.</i></p>
 
 <hr/>
 
-<h3 align="center">⚡ About Code5rs</h3>
-<p align="center">A community where developers craft, innovate, and level up.</p>
+<h3 align="center">⚡ About Me</h3>
+<p align="center">A passionate developer crafting clean, powerful, and creative solutions.</p>
 
 <h3 align="center">🛠 Tech Stack</h3>
 <p align="center">
@@ -26,5 +26,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=180&section=footer&text=Code5rs&fontSize=42&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=180&section=footer&text=Skye%20Denver%20Celeste&fontSize=42&fontColor=ffffff&animation=twinkling" />
 </p>
