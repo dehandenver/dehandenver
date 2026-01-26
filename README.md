@@ -17,7 +17,7 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&border_radius=12" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dehandenver&show_icons=true&theme=tokyonight&border_radius=12" />
 </p>
 
 <h3 align="center">🐍 Contribution Activity</h3>
@@ -28,3 +28,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=180&section=footer&text=Skye%20Denver%20Celeste&fontSize=42&fontColor=ffffff&animation=twinkling" />
 </p>
+
