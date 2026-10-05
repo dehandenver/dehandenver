@@ -118,9 +118,8 @@ skye@celeste:~$ _
 <p align="center">
   <a href="https://github.com/dehandenver/CICTrix">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=dehandenver&repo=CICTrix&bg_color=0D1117&title_color=FF007F&icon_color=FF007F&text_color=E6EDF3&border_color=FF007F&border_radius=12&show_owner=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=dehandenver&repo=CICTrix&bg_color=FFFFFF&title_color=FF007F&icon_color=FF007F&text_color=1F2328&border_color=FF007F&border_radius=12&show_owner=true">
-      <img alt="CICTrix repo card" src="https://github-readme-stats.vercel.app/api/pin/?username=dehandenver&repo=CICTrix&bg_color=0D1117&title_color=FF007F&icon_color=FF007F&text_color=E6EDF3&border_color=FF007F&border_radius=12&show_owner=true" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=dehandenver&repo=CICTrix&bg_color=000000&title_color=FF007F&icon_color=FF007F&text_color=E6EDF3&border_color=FF007F&border_radius=12&show_owner=true">
+      <img alt="CICTrix repo card" src="https://github-readme-stats.vercel.app/api/pin/?username=dehandenver&repo=CICTrix&bg_color=000000&title_color=FF007F&icon_color=FF007F&text_color=E6EDF3&border_color=FF007F&border_radius=12&show_owner=true" />
     </picture>
   </a>
 </p>
@@ -197,30 +196,26 @@ flowchart LR
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dehandenver&show_icons=true&bg_color=0D1117&title_color=FF007F&icon_color=FF007F&text_color=E6EDF3&border_color=FF007F&border_radius=12&count_private=true&include_all_commits=true&cache_seconds=43200">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dehandenver&show_icons=true&bg_color=FFFFFF&title_color=FF007F&icon_color=FF007F&text_color=1F2328&border_color=FF007F&border_radius=12&count_private=true&include_all_commits=true&cache_seconds=43200">
-    <img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=dehandenver&show_icons=true&bg_color=0D1117&title_color=FF007F&icon_color=FF007F&text_color=E6EDF3&border_color=FF007F&border_radius=12&count_private=true&include_all_commits=true&cache_seconds=43200" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dehandenver&show_icons=true&bg_color=000000&title_color=FF007F&icon_color=FF007F&text_color=E6EDF3&border_color=FF007F&border_radius=12&count_private=true&include_all_commits=true&cache_seconds=43200">
+    <img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=dehandenver&show_icons=true&bg_color=000000&title_color=FF007F&icon_color=FF007F&text_color=E6EDF3&border_color=FF007F&border_radius=12&count_private=true&include_all_commits=true&cache_seconds=43200" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dehandenver&layout=compact&bg_color=0D1117&title_color=FF007F&text_color=E6EDF3&border_color=FF007F&border_radius=12&langs_count=8&cache_seconds=43200">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dehandenver&layout=compact&bg_color=FFFFFF&title_color=FF007F&text_color=1F2328&border_color=FF007F&border_radius=12&langs_count=8&cache_seconds=43200">
-    <img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dehandenver&layout=compact&bg_color=0D1117&title_color=FF007F&text_color=E6EDF3&border_color=FF007F&border_radius=12&langs_count=8&cache_seconds=43200" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dehandenver&layout=compact&bg_color=000000&title_color=FF007F&text_color=E6EDF3&border_color=FF007F&border_radius=12&langs_count=8&cache_seconds=43200">
+    <img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dehandenver&layout=compact&bg_color=000000&title_color=FF007F&text_color=E6EDF3&border_color=FF007F&border_radius=12&langs_count=8&cache_seconds=43200" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=dehandenver&background=0D1117&border=FF007F&stroke=FF007F&ring=FF007F&fire=FF007F&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=FF007F&currStreakLabel=FF007F&dates=8B949E&border_radius=12">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=dehandenver&background=FFFFFF&border=FF007F&stroke=FF007F&ring=FF007F&fire=FF007F&currStreakNum=1F2328&sideNums=1F2328&sideLabels=FF007F&currStreakLabel=FF007F&dates=57606A&border_radius=12">
-    <img alt="Streak stats" src="https://streak-stats.demolab.com/?user=dehandenver&background=0D1117&border=FF007F&stroke=FF007F&ring=FF007F&fire=FF007F&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=FF007F&currStreakLabel=FF007F&dates=8B949E&border_radius=12" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=dehandenver&background=000000&border=FF007F&stroke=FF007F&ring=FF007F&fire=FF007F&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=FF007F&currStreakLabel=FF007F&dates=8B949E&border_radius=12">
+    <img alt="Streak stats" src="https://streak-stats.demolab.com/?user=dehandenver&background=000000&border=FF007F&stroke=FF007F&ring=FF007F&fire=FF007F&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=FF007F&currStreakLabel=FF007F&dates=8B949E&border_radius=12" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dehandenver&bg_color=0D1117&color=FF007F&line=FF007F&point=FFFFFF&area=true&area_color=FF007F&hide_border=true&title_color=FF007F&radius=12">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dehandenver&bg_color=FFFFFF&color=FF007F&line=FF007F&point=1F2328&area=true&area_color=FF007F&hide_border=true&title_color=FF007F&radius=12">
-    <img alt="Contribution activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dehandenver&bg_color=0D1117&color=FF007F&line=FF007F&point=FFFFFF&area=true&area_color=FF007F&hide_border=true&title_color=FF007F&radius=12" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dehandenver&bg_color=000000&color=FF007F&line=FF007F&point=FFFFFF&area=true&area_color=FF007F&hide_border=true&title_color=FF007F&radius=12">
+    <img alt="Contribution activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dehandenver&bg_color=000000&color=FF007F&line=FF007F&point=FFFFFF&area=true&area_color=FF007F&hide_border=true&title_color=FF007F&radius=12" />
   </picture>
 </p>
 
@@ -233,7 +228,6 @@ flowchart LR
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dehandenver/dehandenver/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dehandenver/dehandenver/output/github-snake.svg">
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/dehandenver/dehandenver/output/github-snake-dark.svg" width="100%" />
   </picture>
 </p>
