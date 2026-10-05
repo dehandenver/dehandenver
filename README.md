@@ -47,7 +47,7 @@
 <a name="about"></a>
 <h2 align="center">⚡ About Me</h2>
 
-<!-- 11. Terminal-style intro (neofetch vibes) -->
+<!-- 11. Terminal-style intro (neofetch vibes). TODO: edit the location/role below if you want -->
 ```bash
 skye@celeste:~$ whoami
 > Skye Denver Celeste — developer, builder, perpetual learner
@@ -58,9 +58,9 @@ skye@celeste:~$ cat mission.txt
 skye@celeste:~$ cat status.json
 {
   "role":        "Full Stack Developer",
-  "location":    "Western Visayas, Philippines 🇵🇭",   # TODO: edit if you want
+  "location":    "Western Visayas, Philippines",
   "currently":   ["building cool things", "learning systems design"],
-  "fuel":        "☕ coffee + 🎵 lo-fi + ✨ stubbornness",
+  "fuel":        "coffee + lo-fi + stubbornness",
   "open_to":     ["collabs", "freelance", "open source", "good ideas"],
   "ask_me_about": ["PHP", "Python", "Java", "web design", "debugging at 3AM"]
 }
