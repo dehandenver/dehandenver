@@ -1,31 +1,24 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+Skye+Denver+Celeste;Where+Code+Moves+and+Lives;Build.+Create.+Dominate." />
-</p>
+<div align="center">
+  <!-- Dynamic Neon Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,70:220516,100:FF007F&height=220&section=header&text=SKYE%20DENVER%20CELESTE&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" />
 
-<h1 align="center">🚀 SKYE DENVER CELESTE</h1>
-<p align="center"><i>Where ideas turn into powerful code.</i></p>
+  <!-- Neon Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF2E93&center=true&vCenter=true&width=600&lines=%E2%9E%A4+Architecting+clean+%26+powerful+solutions;%E2%9E%A4+Where+Code+Moves+and+Lives;%E2%9E%A4+Build.+Create.+Dominate." alt="Typing SVG" />
+  </a>
 
-<hr/>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=dehandenver&style=flat-square&color=ff007f&label=PROFILE+VIEWS" alt="Profile Views" />
+  </p>
+</div>
 
-<h3 align="center">⚡ About Me</h3>
-<p align="center">A passionate developer crafting clean, powerful, and creative solutions.</p>
+<br/>
 
-<h3 align="center">🛠 Tech Stack</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,github,figma" />
-</p>
-
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dehandenver&show_icons=true&theme=tokyonight&border_radius=12" />
-</p>
-
-<h3 align="center">🐍 Contribution Activity</h3>
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=180&section=footer&text=Skye%20Denver%20Celeste&fontSize=42&fontColor=ffffff&animation=twinkling" />
-</p>
-
+### ✦ `ABOUT_ME`
+```bash
+const Skye = {
+  pronouns: "He" | "Him",
+  focus: ["Full-Stack Development", "UI/UX Engineering", "System Design"],
+  currentPassion: "Building high-performance, visually striking applications",
+  motto: "Where ideas turn into powerful code."
+};
